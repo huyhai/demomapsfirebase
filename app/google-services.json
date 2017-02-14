@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "549133218464",
+    "firebase_url": "https://mapfirebasedemo.firebaseio.com",
+    "project_id": "mapfirebasedemo",
+    "storage_bucket": "mapfirebasedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549133218464:android:c41357ff3120be88",
+        "android_client_info": {
+          "package_name": "g8.com.android.mapsfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549133218464-4pl7ord510it0mhqjlp8v73cr20u0ibi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "g8.com.android.mapsfirebasedemo",
+            "certificate_hash": "14B4B00B13025A85B31F9B1588040DE1FA1160A1"
+          }
+        },
+        {
+          "client_id": "549133218464-p0q653g6jlcfj9ppnnnh2qpd9ihgo18f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYY6mFOlSovNuk4xSJT9Y5lnYBG40Sl2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549133218464-p0q653g6jlcfj9ppnnnh2qpd9ihgo18f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
